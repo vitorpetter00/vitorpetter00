@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitorpetter00
-- 👀 I’m interested in  HTM,CSS,JAVASCRIPT e UNITY
+- 👀 I’m interested in  HTML, CSS e Javascript
 - 🌱 I’m currently learning  HTML, CSS e JavaScript
 
 <!---
